@@ -1,5 +1,6 @@
 ﻿# Tarea_3_Materiales-Diagramas
-
+Nombre: Victor Macario
+Codigo: 7690-22-5042
 <b>Direccion de el ejecutable: </b>
 <p> Dentro de src/tarea_materiales/</p>
 
